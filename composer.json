@@ -1,0 +1,41 @@
+{
+  "name": "ernestdefoe/digest-mail",
+  "description": "Sends a periodic digest email to forum members summarising new discussions, active discussions, unread discussions, and new members.",
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ernestdefoe",
+      "email": "ernestdefoe@gmail.com",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Resofire",
+      "role": "Original author"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/ernestdefoe/digest-mail/issues",
+    "source": "https://github.com/ernestdefoe/digest-mail"
+  },
+  "require": {
+    "php": "^8.3",
+    "flarum/core": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Resofire\\DigestMail\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "id": "ernestdefoe-digest-mail",
+      "title": "Digest Email",
+      "icon": {
+        "name": "fas fa-newspaper",
+        "backgroundColor": "#69c6b9",
+        "color": "#1a2744"
+      }
+    }
+  }
+}
