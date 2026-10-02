@@ -1,0 +1,21 @@
+ernestdefoe-digest-mail:
+  forum:
+    settings:
+      digest_label: Résumé par courriel
+      digest_help: Recevez un résumé périodique des nouvelles discussions, des 
+        fils de discussion actifs et des nouveaux membres.
+      frequency_off: Désactivé — ne m'envoyez pas de résumés
+      frequency_daily: Quotidien
+      frequency_weekly: Hebdomadaire
+      frequency_monthly: Mensuel
+      saved: Sauvegardé
+      save_error: Impossible d'enregistrer vos préférences. Veuillez réessayer.
+    onboarding:
+      modal_title: Restez au courant
+      modal_body: Recevez régulièrement dans votre boîte courriel un résumé des 
+        meilleures discussions, des nouveaux membres et de l'actualité du forum.
+      modal_dismiss: Non merci
+  admin:
+    settings:
+      limit_new_label: Nouvelles discussions — limite d'éléments
+      limit_new_help: Nombre maximum d'éléments à inclure dans chaque résumé.
