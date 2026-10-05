@@ -1,0 +1,18 @@
+{
+    "extends": "flarum-tsconfig",
+    "include": [
+        "src/**/*",
+        "node_modules/flarum/*/js/dist-typings/@types/**/*"
+    ],
+    "compilerOptions": {
+        "paths": {
+            "flarum/*": ["node_modules/flarum/*/js/dist-typings/*"]
+        },
+        "// note": "The frontend is faithful Mithril hyperscript (m(...) calls) reconstructed from the shipped bundles, so the implicit-any-heavy callback style is intentional. Type checking is relaxed accordingly; webpack builds via babel and does not type-check.",
+        "strict": false,
+        "noImplicitAny": false,
+        "noImplicitThis": false,
+        "noImplicitReturns": false,
+        "strictNullChecks": false
+    }
+}
