@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/digest-mail.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/digest-mail) or the [upstream repository](https://github.com/ernestdefoe/digest-mail).
 
-**14** versions archived · Latest: [`2.2.5`](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.2.5) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`2.2.6`](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.2.6) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `2.0.0` | 2026-06-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.0.0) |
-| `2.0.1` | 2026-06-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.0.1) |
-| `2.1.0` | 2026-06-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.0) |
-| `2.1.1` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.1) |
-| `2.1.2` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.2) |
-| `2.1.3` | 2026-07-02 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.3) |
-| `2.1.4` | 2026-07-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.4) |
-| `2.1.5` | 2026-07-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.1.5) |
-| `2.2.0` | 2026-07-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.2.0) |
-| `2.2.1` | 2026-09-11 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-digest-mail/tree/archive/v2.2.1) |
-
-[View all 14 versions](https://github.com/flarchive/ernestdefoe-digest-mail/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-digest-mail.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-digest-mail.json)
 
