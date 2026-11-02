@@ -1,0 +1,77 @@
+ernestdefoe-digest-mail:
+  forum:
+    settings:
+      digest_label: Résumé par courriel
+      digest_help: Recevez un résumé périodique des nouvelles discussions, des 
+        fils de discussion actifs et des nouveaux membres.
+      frequency_off: Désactivé — ne m'envoyez pas de résumés
+      frequency_daily: Quotidien
+      frequency_weekly: Hebdomadaire
+      frequency_monthly: Mensuel
+      saved: Sauvegardé
+      save_error: Impossible d'enregistrer vos préférences. Veuillez réessayer.
+    onboarding:
+      modal_title: Restez au courant
+      modal_body: Recevez régulièrement dans votre boîte courriel un résumé des 
+        meilleures discussions, des nouveaux membres et de l'actualité du forum.
+      modal_dismiss: Non merci
+  admin:
+    tabs:
+      settings: "Paramètres"
+      order: "Ordre du résumé"
+      stats: "Statistiques"
+      server: "Paramètres du serveur"
+    integrations:
+      ext_installed: "{ext} est installé et actif"
+      ext_not_installed: "{ext} n'est pas installé ou est désactivé"
+    schedule:
+      midnight: "(minuit)"
+      noon: "(midi)"
+      timezones:
+        honolulu: "Hawaï"
+        anchorage: "Alaska"
+        los_angeles: "Heure du Pacifique (États-Unis et Canada)"
+        denver: "Heure des Rocheuses (États-Unis et Canada)"
+        chicago: "Heure du Centre (États-Unis et Canada)"
+        new_york: "Heure de l'Est (États-Unis et Canada)"
+        halifax: "Heure de l'Atlantique (Canada)"
+        sao_paulo: "Brasilia"
+        azores: "Açores"
+        london: "Londres"
+        paris: "Paris / Berlin / Rome"
+        helsinki: "Helsinki / Kyiv"
+        moscow: "Moscou"
+        dubai: "Dubaï"
+        karachi: "Karachi"
+        kolkata: "Mumbai / New Delhi"
+        bangkok: "Bangkok / Jakarta"
+        shanghai: "Pékin / Singapour"
+        tokyo: "Tokyo / Séoul"
+        sydney: "Sydney"
+        auckland: "Auckland"
+    server:
+      cron_comment_workers: "Ajoutez une ligne par worker — par ex. 3 workers :"
+      cron_comment_enqueue: "Facultatif : préparer les tâches avant l'ouverture de la fenêtre (grands forums uniquement) :"
+    settings:
+      limit_new_label: Nouvelles discussions — limite d'éléments
+      limit_new_help: Nombre maximum d'éléments à inclure dans chaque résumé.
+  api:
+    no_token: "Aucun jeton fourni."
+    token_not_found: "Jeton introuvable ou expiré."
+    invalid_frequency: "Fréquence invalide."
+    email_required: "Une adresse courriel valide est requise."
+    frequency_invalid: "la fréquence doit être daily, weekly ou monthly."
+    mail_failed: "L'envoi du courriel a échoué. Consultez les journaux du serveur pour plus de détails."
+  lib:
+    weekdays:
+      sunday: "dimanche"
+      monday: "lundi"
+      tuesday: "mardi"
+      wednesday: "mercredi"
+      thursday: "jeudi"
+      friday: "vendredi"
+      saturday: "samedi"
+    ordinal_st: "{n}"
+    ordinal_nd: "{n}"
+    ordinal_rd: "{n}"
+    ordinal_th: "{n}"
